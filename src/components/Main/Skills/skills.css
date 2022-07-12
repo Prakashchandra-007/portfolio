@@ -1,0 +1,11 @@
+.skill{
+    padding:5%;
+}
+.skill-area{
+    --auto-grid-min-size: 10rem;
+    margin-top:5%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(var(--auto-grid-min-size), 1fr));
+    grid-gap: 2rem;
+    justify-items: center;
+}

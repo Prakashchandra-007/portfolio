@@ -1,0 +1,11 @@
+.projectcard{
+    max-width: 500px;
+    min-width: 300px;
+    min-height:500px;
+    background-color: rgb(255, 230, 0);
+    height:15%;
+    padding:2%;
+    border:1px solid #ccc;
+    border-radius:10px;
+    box-shadow: 5px 4px 20px 0px #d6d6d6;
+}

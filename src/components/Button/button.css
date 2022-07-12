@@ -1,0 +1,12 @@
+.hot-button{
+    min-width: 200px;
+    min-height: 40px;
+    height:3%;
+    width:15%;
+    padding:1%;
+    font-size:1.2em;
+    font-weight:bold;
+    border:none;
+    border-radius:30px;
+    margin:.5rem;
+}

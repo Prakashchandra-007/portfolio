@@ -1,0 +1,16 @@
+.hero-img-div{
+    
+    height: 100%;
+    /* max-height: 300px; */
+    border: 1px solid;
+    overflow: hidden;
+}
+.hero-img-div::after{
+    content:"<div></div>";
+}
+.hero-img{
+    position: relative;
+    top: 0px;
+    left:-121px;
+    /* vertical-align: top; */
+}

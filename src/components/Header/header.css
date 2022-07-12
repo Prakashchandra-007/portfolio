@@ -1,0 +1,11 @@
+.header{
+    height:12%;
+    width:100%;
+    position:static;
+    background-color:rgb(247, 247, 247);
+    /* box-shadow: 0 8px 37px 10px #000000; */
+}
+.menu-list{
+    display:flex;
+    justify-content: space-between;
+}
