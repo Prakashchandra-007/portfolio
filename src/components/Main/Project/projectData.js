@@ -1,8 +1,8 @@
 const data = [
-    {projectName:"",
+    {projectName:"Movies Searching",
     img:"",
     description:"",
     link:"",
-    theme:"",    
+    theme:"blue",    
 }
 ];

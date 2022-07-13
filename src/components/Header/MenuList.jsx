@@ -1,15 +1,17 @@
 import React from "react";
+import './header.css';
 // import ToggleButton from './Toggle/Toggle';
 function MenuList() {
   return (
-    <div className="menu-list">
-      <h1>Prakash ch Muduli..</h1>
-      <span style={{display: 'flex', flexDirection: 'row'}}>
+    <div className="header-list">
+      <h1>&lt; Prakash/ &gt;</h1>
+      <div className="menus" >
         <a href="/">Home</a>
-        <a href="/">Home</a>
-        <a href="/">Home</a>
+        <a href="/">Resume</a>
+        <a href="/">My Projects</a>
+        <a href="/">Contact</a>
         {/* <ToggleButton /> */}
-      </span>
+      </div>
     </div>
   );
 }
